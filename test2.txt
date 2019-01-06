@@ -1,0 +1,11 @@
+ Volume in drive F is New Volume
+ Volume Serial Number is E497-74E1
+
+ Directory of F:\GIT\GIT demo
+
+06-01-2019  01:38 PM    <DIR>          .
+06-01-2019  01:38 PM    <DIR>          ..
+06-01-2019  01:38 PM               105 test1
+06-01-2019  01:38 PM                 0 test2.txt
+               2 File(s)            105 bytes
+               2 Dir(s)  140,361,019,392 bytes free
